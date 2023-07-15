@@ -599,8 +599,7 @@ a:focus {
   width: 100px;
 }
 body{
-  background: rgb(42,42,42);
-  background: linear-gradient(90deg, rgba(42,42,42,1) 0%, rgba(0,0,0,1) 22%, rgba(0,0,0,1) 82%, rgba(40,63,69,1) 100%);
+  
 
 }
 .why_section{
